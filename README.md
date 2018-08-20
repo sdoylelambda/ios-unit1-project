@@ -27,7 +27,7 @@ You must implement every one of these requirements in your application:
 - List all of your bookshelves
 - Insert, update, and delete volumes in a bookshelf. (On the API side)
 - Move books between bookshelves.
-- Bookshelf and volume information must be persisted using Core Data and syncronized with the API.
+- Bookshelf and volume information must be persisted using Core Data and synchronized with the API.
 
 ### Extra Requirements
 
